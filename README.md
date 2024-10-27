@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @AG-LORD
 - 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning python ML
-- 💞️ I’m looking to collaborate on interesting web dev projects
 - 📫 How to reach me
-   waystostudy01@gmail.com 
+   aaryaagharat@gmail.com 
 - 😄 Pronouns: she/her
 
 
